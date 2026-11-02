@@ -1,0 +1,16 @@
+﻿# Visual Studio / IDE
+.vs/
+*.vsidx
+.vscode/
+.idea/
+
+# Збірка
+build/
+out/
+cmake-build-*/
+
+# Об'єктні файли та бінарники
+*.o
+*.obj
+*.exe
+*.pdb
